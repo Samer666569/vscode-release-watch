@@ -1,11 +1,11 @@
 {
-  "last_key": "1.125.0:DOWNLOADABLE",
+  "last_key": "1.125.0:GITHUB_RELEASED",
   "last_version": "1.125.0",
-  "last_status": "DOWNLOADABLE",
-  "last_sent_at": "2026-06-17T16:28:00.984046+00:00",
+  "last_status": "GITHUB_RELEASED",
+  "last_sent_at": "2026-06-18T18:35:37.765953+00:00",
   "sources": {
     "update_api": "1.125.0",
     "github": "1.125.0",
-    "download": "1.125.0"
+    "download": "1.124.2"
   }
 }
