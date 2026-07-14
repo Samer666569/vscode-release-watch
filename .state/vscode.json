@@ -1,11 +1,11 @@
 {
-  "last_key": "1.128.0:GITHUB_RELEASED",
+  "last_key": "1.128.0:UPDATE_API_CANDIDATE",
   "last_version": "1.128.0",
-  "last_status": "GITHUB_RELEASED",
-  "last_sent_at": "2026-07-11T04:18:39.900871+00:00",
+  "last_status": "UPDATE_API_CANDIDATE",
+  "last_sent_at": "2026-07-14T12:22:07.954733+00:00",
   "sources": {
     "update_api": "1.128.0",
-    "github": "1.128.0",
+    "github": null,
     "download": "1.127.0"
   }
 }
