@@ -1,11 +1,11 @@
 {
-  "last_key": "1.130.0:DOWNLOADABLE",
-  "last_version": "1.130.0",
+  "last_key": "1.131.0:DOWNLOADABLE",
+  "last_version": "1.131.0",
   "last_status": "DOWNLOADABLE",
-  "last_sent_at": "2026-07-22T17:52:01.675447+00:00",
+  "last_sent_at": "2026-07-29T11:34:03.690665+00:00",
   "sources": {
-    "update_api": "1.130.0",
+    "update_api": "1.131.0",
     "github": "1.130.0",
-    "download": "1.130.0"
+    "download": "1.131.0"
   }
 }
